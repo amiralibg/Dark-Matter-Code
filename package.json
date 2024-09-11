@@ -2,7 +2,7 @@
   "name": "dark-matter-code",
   "displayName": "Dark Matter Code",
   "description": "Easy to read color theme for the night owls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.93.0"
   },
