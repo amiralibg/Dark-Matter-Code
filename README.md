@@ -1,4 +1,4 @@
-# Dark Coder Theme
+# Dark Matter Code
 
 A sleek, modern dark theme for Visual Studio Code designed to reduce eye strain and boost productivity. Perfect for developers who enjoy a clean, focused coding environment.
 
