@@ -1,16 +1,46 @@
-# dark-reader README
+# Dark Coder Theme
 
-## Working with Markdown
+A sleek, modern dark theme for Visual Studio Code designed to reduce eye strain and boost productivity. Perfect for developers who enjoy a clean, focused coding environment.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- Dark, minimalistic color scheme
+- High contrast for clear visibility
+- Consistent colors across different languages
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amiralibg/dark-coder-theme.git
+2. Open in VS Code.
+3. Install dependencies:
+   ````bash
+   npm install
+4. Press `F5` to start debugging the extension.
 
-## For more information
+## License
+This theme is licensed under the MIT License.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Contribute
+Feel free to fork and submit pull requests! Any feedback is appreciated.
 
-**Enjoy!**
+---
+
+### vsc-extension-quickstart.md
+
+```markdown
+# Dark Coder Theme - Quickstart Guide
+
+This guide will help you get started with the Dark Coder Theme extension for Visual Studio Code.
+
+## Running the Extension
+
+1. Open this project in Visual Studio Code.
+2. Press `F5` to open a new VS Code window with the extension loaded.
+3. Use the new window to test your theme.
+
+## Editing the Theme
+
+You can modify the theme by editing the `.json` files inside the `themes` directory. After making changes:
+- Run the extension again (`F5`) to see the updated theme in action.
+
+Happy coding!
