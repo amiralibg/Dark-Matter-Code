@@ -1,6 +1,6 @@
 {
-  "name": "dark-coder",
-  "displayName": "Dark Coder",
+  "name": "dark-phantom",
+  "displayName": "Dark Phantom",
   "description": "Easy to read color theme for the night owls",
   "version": "0.0.1",
   "engines": {
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Coder",
+        "label": "Dark Phantom",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Coder-color-theme.json"
+        "path": "./themes/Dark Phantom-color-theme.json"
       }
     ]
   }
