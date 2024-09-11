@@ -1,6 +1,6 @@
 {
-  "name": "dark-phantom",
-  "displayName": "Dark Phantom",
+  "name": "dark-matter-code",
+  "displayName": "Dark Matter Code",
   "description": "Easy to read color theme for the night owls",
   "version": "0.0.1",
   "engines": {
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Phantom",
+        "label": "Dark Matter Code",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Phantom-color-theme.json"
+        "path": "./themes/Dark Matter Code-color-theme.json"
       }
     ]
   }
