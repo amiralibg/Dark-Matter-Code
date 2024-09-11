@@ -1,0 +1,26 @@
+{
+  "name": "dark-coder",
+  "displayName": "Dark Coder",
+  "description": "Easy to read color theme for the night owls",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "publisher": "AmiraliBeigi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amiralibg/dark-coder-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Coder-color-theme.json"
+      }
+    ]
+  }
+}
