@@ -2,7 +2,7 @@
   "name": "dark-matter-code",
   "displayName": "Dark Matter Code",
   "description": "Easy to read color theme for the night owls",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -18,9 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Matter Code",
+        "label": "Dark Matter Code Medium",
         "uiTheme": "vs-dark",
         "path": "./themes/DarkMatterCode-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Soft-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Hard-color-theme.json"
       }
     ]
   }
