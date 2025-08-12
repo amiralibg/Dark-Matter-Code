@@ -4,6 +4,30 @@ All notable changes to the "dark-matter-code" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6] - 2025-01-XX
+
+### Added
+- **Neptune Collection**: Introduced 3 new blueish theme variants with cool color temperatures
+  - Dark Matter Code Neptune Medium - Balanced contrast with `#1A1B26` base color
+  - Dark Matter Code Neptune Soft - Lower contrast with `#1F2031` base color  
+  - Dark Matter Code Neptune Hard - Higher contrast with `#16161E` base color
+- **Mars Collection**: Renamed existing themes to Mars variants for better organization
+  - Dark Matter Code Mars Medium (formerly Dark Matter Code Medium)
+  - Dark Matter Code Mars Soft (formerly Dark Matter Code Soft)
+  - Dark Matter Code Mars Hard (formerly Dark Matter Code Hard)
+- Six total theme options now available with two distinct color palettes
+
+### Changed
+- Reorganized theme naming convention to planetary themes (Mars vs Neptune)
+- Updated Neptune themes to use cohesive blue color scheme based on `#1A1B26`
+- Improved theme descriptions and documentation in README.md
+- Enhanced contrast variations across all theme variants
+
+### Fixed
+- Deprecated editor indent guide properties updated to newer VS Code standards
+- Consistent color mapping across all Neptune theme variants
+- Improved border and background color relationships in Neptune themes
+
 ## [0.0.5] - 2024-XX-XX
 
 ### Added

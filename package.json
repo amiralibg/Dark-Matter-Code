@@ -18,19 +18,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Matter Code Medium",
+        "label": "Dark Matter Code Mars Medium",
         "uiTheme": "vs-dark",
-        "path": "./themes/DarkMatterCode-color-theme.json"
+        "path": "./themes/DarkMatterCode-Mars-Medium-color-theme.json"
       },
       {
-        "label": "Dark Matter Code Soft",
+        "label": "Dark Matter Code Mars Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/DarkMatterCode-Soft-color-theme.json"
+        "path": "./themes/DarkMatterCode-Mars-Soft-color-theme.json"
       },
       {
-        "label": "Dark Matter Code Hard",
+        "label": "Dark Matter Code Mars Hard",
         "uiTheme": "vs-dark",
-        "path": "./themes/DarkMatterCode-Hard-color-theme.json"
+        "path": "./themes/DarkMatterCode-Mars-Hard-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Neptune Medium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Neptune-Medium-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Neptune Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Neptune-Soft-color-theme.json"
+      },
+      {
+        "label": "Dark Matter Code Neptune Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkMatterCode-Neptune-Hard-color-theme.json"
       }
     ]
   }

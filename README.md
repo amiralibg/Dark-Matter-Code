@@ -2,8 +2,24 @@
 
 A sleek, modern dark theme for Visual Studio Code designed to reduce eye strain and boost productivity. Perfect for developers who enjoy a clean, focused coding environment.
 
+## Available Themes
+
+This extension includes 6 theme variations:
+
+### Mars Collection (Reddish/Warm Dark)
+- **Dark Matter Code Mars Medium** - Balanced contrast with reddish dark backgrounds
+- **Dark Matter Code Mars Soft** - Lower contrast variant for extended coding sessions
+- **Dark Matter Code Mars Hard** - Higher contrast for maximum readability
+
+### Neptune Collection (Blueish/Cool Dark)
+- **Dark Matter Code Neptune Medium** - Balanced contrast with blueish dark backgrounds  
+- **Dark Matter Code Neptune Soft** - Lower contrast variant with cool blue tints
+- **Dark Matter Code Neptune Hard** - Higher contrast with deep blue backgrounds
+
 ## Features
 - Dark, minimalistic color scheme
+- Multiple contrast levels for different preferences
+- Two color temperature variants (warm Mars vs cool Neptune)
 - High contrast for clear visibility
 - Consistent colors across different languages
 
